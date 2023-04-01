@@ -1,7 +1,5 @@
 package com.kevindotklein.template.entities.enums;
 
-import org.springframework.context.annotation.EnableLoadTimeWeaving;
-
 public enum OrderStatus {
 	WAITING_PAYMENT(1),
 	PAID(2),
